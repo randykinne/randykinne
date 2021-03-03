@@ -10,7 +10,9 @@
   <br/>
   <img width="" src="https://github-readme-stats.vercel.app/api?username=randykinne&count_private=true&show_icons=true" alt="My GitHub Stats" />
   <br>
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randykinne&layout=compact&card_width=300" alt="My Top Languages" />
+  <a href="https://github.com/randykinne?tab=repositories">
+    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randykinne&layout=compact&card_width=300&langs_count=10&hide=sass%2Cc%23%2Cdart%2Chtml" alt="My Top Languages" />
+  </a>
   <br />
   <br />
 </div>
