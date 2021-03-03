@@ -8,9 +8,9 @@
 
 <div align="center">
   <br/>
-  <img width="" src="https://github-readme-stats.vercel.app/api?username=randykinne&count_private=true&show_icons=true" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=randykinne&count_private=true&show_icons=true" alt="My GitHub Stats" />
   <br>
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randykinne&layout=compact&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randykinne&layout=compact&card_width=300" alt="My Top Languages" />
   <br />
   <br />
 </div>
