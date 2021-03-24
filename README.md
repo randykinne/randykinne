@@ -23,7 +23,7 @@
    <a href="https://discord.com/users/461723612379086849">
   <img align="center" alt="Randy's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/randykinne">
+<a href="https://twitter.com/randykinne_">
   <img align="center" alt="Randy's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/randykinne/">
