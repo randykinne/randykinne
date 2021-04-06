@@ -4,7 +4,7 @@
 
 
 
-<p>I'm a Full-Stack software engineer currently working at Cision. I like to work with JavaScript/TypeScript, Java, Python, and Go. </p>
+<p>I'm a full-stack software engineer currently working at Cision. I like to work with JavaScript/TypeScript, Java, Python, and Go. </p>
 
 <div align="center">
   <br/>
